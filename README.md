@@ -4,7 +4,7 @@ Extension for ngForm with powerful validation mechanism
 ## Quick start
 Several quick start options are available:
 
-* [Download the latest release](https://github.com/massive-angular/tg-form/archive/v1.0.0.zip)
+* [Download the latest release](https://github.com/massive-angular/tg-form/archive/v1.0.1.zip)
 * Clone the repo: `git clone https://github.com/massive-angular/tg-form.git`
 * Install with [bower](http://bower.io): `bower install tg-form`
 * Install with [npm](https://npmjs.com): `npm install tg-form`
