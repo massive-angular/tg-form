@@ -185,7 +185,7 @@ $scope.isDateValidAsync = function(year, month, day) {
 
 ## Creators
 **Slava Matvienco**
-* <https://github.com/felix-wfm>
+* <https://github.com/wfm-slava>
 
 **Alexandr Dascal**
 * <https://github.com/adascal>
