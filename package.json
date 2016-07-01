@@ -1,0 +1,38 @@
+{
+  "name": "tg-form",
+  "version": "1.0.0",
+  "description": "Extension for ngForm with powerful validation mechanism",
+  "main": "dist/tg-form.js",
+  "contributors": [
+    "Slava Matvienco <slava.matvienco@gmail.com>",
+    "Alexandr Dascal <alexandr.dascal@gmail.com>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/massive-angular/tg-form.git"
+  },
+  "keywords": [
+    "ngForm",
+    "tgForm",
+    "angular form",
+    "angular validation",
+    "form validation",
+    "massive",
+    "massive-angular",
+    "massive angular"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/massive-angular/tg-form/issues"
+  },
+  "homepage": "https://github.com/massive-angular/tg-form#readme",
+  "peerDependencies": {
+    "angular": ">= 1.5.x"
+  },
+  "dependencies": {
+    "override-fn": "^1.0.8"
+  },
+  "devDependencies": {
+    "webpack": "^1.13.1"
+  }
+}
