@@ -26,8 +26,8 @@ Several quick start options are available:
   </div>
   <div>
     <tg-form-message name="simpleText"
-      required-message="simple text is required"
-      minlength-message="simple text min length is 3">
+      required-message="'simple text is required'"
+      minlength-message="'simple text min length is 3'">
     </tg-form-message>
   </div>
 </form>
@@ -60,10 +60,10 @@ $scope.equalTo = function(toField, value) {
   </div>
   <div>
     <tg-form-message name="field1"
-      required-message="field1 is required">
+      required-message="'field1 is required'">
     </tg-form-message>
     <tg-form-message name="field2"
-      equal-to-field1-message="field2 must be equal to field1">
+      equal-to-field1-message="'field2 must be equal to field1'">
     </tg-form-message>
   </div>
 </form>
@@ -103,7 +103,7 @@ $scope.someAsyncValidation = function(value) {
   </div>
   <div>
     <tg-form-message name="asyncField"
-      some-async-validation-message="Async field must be 123">
+      some-async-validation-message="'Async field must be 123'">
     </tg-form-message>
   </div>
 </form>
@@ -134,7 +134,7 @@ $scope.isDateValid = function(year, month, day) {
   </div>
   <div>
     <tg-form-message
-      valid-date-message="Invalid Date"></tg-form-message>
+      valid-date-message="'Invalid Date'"></tg-form-message>
   </div>
 </form>
 ```
@@ -178,7 +178,7 @@ $scope.isDateValidAsync = function(year, month, day) {
   </div>
   <div>
     <tg-form-message
-      valid-date-message="Invalid Date"></tg-form-message>
+      valid-date-message="'Invalid Date'"></tg-form-message>
   </div>
 </form>
 ```
